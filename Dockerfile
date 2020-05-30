@@ -1,4 +1,4 @@
-FROM ubuntu:xenial
+FROM ubuntu:20.04
 LABEL maintainer="Eirik Albrigtsen <sszynrae@gmail.com>"
 
 # Required packages:
